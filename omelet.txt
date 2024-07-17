@@ -1,3 +1,6 @@
 What is an omelet?
+-- An omelet is a dish with egg(s).
 What are the ingredients for an omelet?
+-- Eggs.
 How to make an omelet?
+-- Using a pan and butter. 
